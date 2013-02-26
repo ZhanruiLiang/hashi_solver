@@ -1,6 +1,6 @@
 Intro
 -----
-This is a set of hashi puzzle solvers. On my machine(i3), the fastest one can solve 25x25 very hard puzzle in 20 minutes.
+This is a set of hashi puzzle solvers. On my machine(i3), the fastest one can solve 25x25 very hard puzzle in 20 seconds
 
 How to run
 ----------
